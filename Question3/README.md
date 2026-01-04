@@ -181,5 +181,8 @@ shows disk space of whole filesystems. total size, used, available, percentage
 **difference:** du = space used by specific files/folders, df = overall disk space on drives
 
 ---
+<img width="1428" height="1682" alt="image" src="https://github.com/user-attachments/assets/204ca6e5-d76a-4b59-a6fd-522f88db0e71" />
+<img width="1456" height="1698" alt="image" src="https://github.com/user-attachments/assets/b3865a14-43b7-44b8-9695-10f06b00cdb3" />
+
 
 **files created:** sample_data.txt
