@@ -132,6 +132,9 @@ root@Assignment:~# ps -u root
 ```
 
 lists all processes running under root user
+<img width="1412" height="1646" alt="image" src="https://github.com/user-attachments/assets/b8de5a60-8274-42cb-98dd-03a296fb791f" />
+<img width="1412" height="1646" alt="image" src="https://github.com/user-attachments/assets/656546d7-0347-4343-8a5a-6a554c9b20af" />
+<img width="1256" height="1774" alt="image" src="https://github.com/user-attachments/assets/2f8e278e-4d69-45ca-9bf8-6bb12ef5a822" />
 
 ---
 
@@ -239,6 +242,9 @@ Sun Jan  4 09:59:45 PM GMT 2026
 > writes to file (overwrites), >> appends. saved system info to file
 
 ---
+<img width="1738" height="1604" alt="image" src="https://github.com/user-attachments/assets/ed835de9-175a-46bc-8af9-e5ca83952b7d" />
+
+---
 
 ## Task 10: ncdu tool
 
@@ -296,6 +302,7 @@ ncdu is interactive disk usage viewer:
 - q to quit
 
 much better than du because you can explore visually and see which folders are taking space
+<img width="2324" height="1708" alt="image" src="https://github.com/user-attachments/assets/b3474178-71f5-4664-81af-38af92832a12" />
 
 ---
 
