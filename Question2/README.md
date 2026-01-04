@@ -127,5 +127,6 @@ root@Assignment:~# realpath ~/project_documents/archive/plan_copy.txt
 realpath gives full absolute path of the file
 
 ---
+<img width="1662" height="1680" alt="image" src="https://github.com/user-attachments/assets/08abd4e3-36aa-4d0d-a4b0-e891b77f2e0e" />
 
 **files created:** plan.txt
