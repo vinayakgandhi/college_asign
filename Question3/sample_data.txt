@@ -1,0 +1,3 @@
+This is sample data for demonstrating hard and soft links in Linux.
+Created for the Linux Lab Assignment.
+Understanding file links is essential for system administration.

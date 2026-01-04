@@ -1,0 +1,5 @@
+Project Plan: Web Application Development
+- Phase 1: Requirements gathering
+- Phase 2: Design and prototyping  
+- Phase 3: Implementation
+- Phase 4: Testing and deployment
